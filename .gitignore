@@ -1,0 +1,27 @@
+__pycache__
+.AFC_efficiency_calc_env
+1_Proposal and first implementation of the AFC_0805.4164.pdf
+3_Proposal and theory of impedance matched cavity_1004.2469.pdf
+4_Experimental demonstration of cavity enhancement_1404.3489.pdf
+AFC_Efficiency_Functions.py
+Cavity_Efficiency_paper_3_v2.py
+Cavity_Efficiency_paper_3.py
+Cavity_Efficiency_paper_4_v2.py
+Cavity_Efficiency_paper_4.py
+Cavity_Efficiency.py
+Effective_Absorbtion_Depth_Modelling.py
+Figure_1.png
+Figure_2.png
+Finesse_Modelling.py
+Finesse_vs_d.py
+Gaussian_vs_Square.py
+Waveguide_max_efficiency_v2.py
+Waveguide_max_efficiency_v3.py
+Waveguide_max_efficiency.py
+Waveguide_rabi_freq_unity.py
+Waveguide_rabi_freq_v2.py
+Waveguide_rabi_freq.py
+Max geometrical efficiency bulk Rabi normalized.png
+requirements.txt
+Waveguide_rabi_freq_eff_vs_W.py
+AFC_Efficiency_Model.py
